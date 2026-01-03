@@ -265,6 +265,5 @@ node seed.js
 
 ---
 
-**📄 License:** MIT - Educational project for IncuBrix internship  
 **👨‍💻 Developer:** Saai Siddarth S | 05SSreeraam@gmail.com | SaaiSiddarth
 
